@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\edgaras\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\edgaras\\.nuget\\packages"
+    ]
+  }
+}
